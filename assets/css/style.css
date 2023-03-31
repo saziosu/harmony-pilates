@@ -50,3 +50,20 @@ button {
 button:hover {
     background-color: rgba(213, 28, 136, 0.748);
 }
+
+/* hero image */
+
+#hero-section {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 700px;
+    width: 100%;
+    /* image from https://pilateswithkate.ie/wp-content/uploads/2020/11/Pilates-with-Kate-Dublin.png */
+    background: url(../images/hero.png) no-repeat center 100%;
+    background-size: cover;
+}
