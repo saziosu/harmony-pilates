@@ -107,11 +107,24 @@ button:hover {
     background-image: linear-gradient(to right, #c429a8, purple);
 }
 
+.what-is-pilates > img {
+    width: 500px;
+    height: auto;
+    float: right;
+    margin-right: 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+.what-is-pilates > div {
+    height: 300px;
+    width: 600px;
+    float: left;
+}
+
 .what-is-pilates h2, p {
     background-color: purple;
     background-image: linear-gradient(to right, #c429a8, purple);
     color: azure;
+    opacity: 1;
 }
-
-
-
