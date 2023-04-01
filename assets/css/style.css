@@ -62,12 +62,8 @@ button:hover {
     overflow: hidden;
     background-color: rgba(170, 14, 105, 0.6);
     position: relative;
+    
 }
-
-.hero-section h1 {
-    background-color: rgba(170, 14, 105, 0.6);
-}
-
 
 #hero-image {
     height: 700px;
