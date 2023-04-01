@@ -11,8 +11,8 @@
 
 li, a, button {
     font-family: "Work Sans", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
+    font-weight: 500;
+    font-size: 20px;
     color: purple;
     text-decoration: none;
 }
@@ -53,17 +53,40 @@ button:hover {
 
 /* hero image */
 
-#hero-section {
+.hero-section {
     height: 700px;
     width: 100%;
     overflow: hidden;
+    background-color: rgba(170, 14, 105, 0.6);
     position: relative;
 }
+
+.hero-section h1 {
+    background-color: rgba(170, 14, 105, 0.6);
+}
+
 
 #hero-image {
     height: 700px;
     width: 100%;
-    /* image from https://pilateswithkate.ie/wp-content/uploads/2020/11/Pilates-with-Kate-Dublin.png */
+    /* image sourced from https://pilateswithkate.ie/wp-content/uploads/2020/11/Pilates-with-Kate-Dublin.png */
     background: url(../images/hero.png) no-repeat center 100%;
     background-size: cover;
+}
+
+#mission-statement {
+    width: 350px;
+    height: 120px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 120%;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    bottom: 200px;
+    right: 150px;
+    position: absolute;
+    border: none;
+    border-radius: 50px;
+    color: purple;
+    
 }
