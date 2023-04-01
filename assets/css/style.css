@@ -7,6 +7,14 @@
     background-color: lavender;
 }
 
+h1, h2 {
+    font-family: "Work Sans" sans-serif;
+}
+
+p {
+    font-family: "Merriweather", sans-serif;
+}
+
 /* navigation styles */
 
 li, a, button {
@@ -60,7 +68,7 @@ button:hover {
     height: 700px;
     width: 100%;
     overflow: hidden;
-    background-color: rgba(170, 14, 105, 0.6);
+    background-color: rgba(170, 14, 105, 1);
     position: relative;
     
 }
@@ -89,3 +97,21 @@ button:hover {
     color: purple;
     
 }
+
+/* What is Pilates section */
+
+.what-is-pilates {
+    height: 700px;
+    width: 100%;
+    background-color: purple;
+    background-image: linear-gradient(to right, #c429a8, purple);
+}
+
+.what-is-pilates h2, p {
+    background-color: purple;
+    background-image: linear-gradient(to right, #c429a8, purple);
+    color: azure;
+}
+
+
+
