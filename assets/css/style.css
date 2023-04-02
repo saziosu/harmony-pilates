@@ -105,15 +105,17 @@ button:hover {
     width: 100%;
     background-color: purple;
     background-image: linear-gradient(to right, #c429a8, purple);
+    display: flex;
+    align-items: center;
 }
 
 .what-is-pilates > img {
     width: 500px;
     height: auto;
-    float: right;
-    margin: 150px 50px 0 0;
     border: none;
     border-radius: 50px;
+    float: right;
+    margin-left: 50px;
 }
 
 .what-is-pilates > div {
@@ -122,8 +124,10 @@ button:hover {
     float: left;
 }
 
-.what-is-pilates h2, p {
-    background-color: purple;
-    background-image: linear-gradient(to right, #c429a8, purple);
+#what-is-text {
+    font-size: 150%;
     color: azure;
+    height: auto;
+    width: 50%;
+    margin-left: 50px;
 }
