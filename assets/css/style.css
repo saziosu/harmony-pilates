@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: lavender;
+
 }
 
 h1, h2 {
@@ -130,4 +130,6 @@ button:hover {
     height: auto;
     width: 50%;
     margin-left: 50px;
+    line-height: 45px;
+    text-align: center;
 }
