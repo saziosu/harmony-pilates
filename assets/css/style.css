@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
 h1, h2 {
@@ -119,11 +118,11 @@ button:hover {
     margin-left: 50px;
 }
 
-.what-is-pilates > div {
+/* .what-is-pilates > div {
     height: 50px;
     width: 600px;
     float: left;
-}
+} */
 
 #what-is-text {
     font-size: 150%;
