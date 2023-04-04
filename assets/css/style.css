@@ -165,4 +165,25 @@ footer {
     background-color: rgb(213, 53, 146);
     display: flex;
     justify-content: space-evenly;
+    padding: 40px;
+}
+
+#links-container {
+    padding: 10px 0;
+}
+
+#links-container a {
+    color: azure;
+    padding: 10px;
+    align-self: center;
+}
+
+#social-container {
+    color: azure;
+    text-align: center;
+}
+
+#social-container i {
+    color: azure;
+    padding: 10px;
 }
