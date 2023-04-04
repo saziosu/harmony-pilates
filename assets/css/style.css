@@ -158,3 +158,11 @@ button:hover {
 #benefits-container img {
     border-radius: 50px;
 }
+
+/* Footer */
+
+footer {
+    background-color: rgb(213, 53, 146);
+    display: flex;
+    justify-content: space-evenly;
+}
