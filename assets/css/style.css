@@ -61,19 +61,15 @@ button:hover {
 /* hero image */
 
 .hero-section {
-    height: 700px;
-    width: 100%;
     overflow: hidden;
     background-color: rgba(170, 14, 105, 1);
-    position: relative;
     
 }
 
 #hero-image {
     height: 700px;
     width: 100%;
-    /* image sourced from https://pilateswithkate.ie/wp-content/uploads/2020/11/Pilates-with-Kate-Dublin.png */
-    background: url(../images/hero.png) no-repeat center 100%;
+    background: url(../images/hero-pilates.webp) no-repeat center 100%;
     background-size: cover;
 }
 
@@ -82,10 +78,8 @@ button:hover {
     height: 120px;
     font-family: "Work Sans", sans-serif;
     font-size: 120%;
-    padding-top: 30px;
-    padding-left: 40px;
-    padding-right: 40px;
-    bottom: 200px;
+    padding: 30px;
+    bottom: 100px;
     right: 150px;
     position: absolute;
     border: none;
