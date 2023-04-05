@@ -151,11 +151,25 @@ button:hover {
     list-style: none;
     padding: 40px;
     margin-top: 15px;
+    font-size: 30px;
 }
 
 #benefits-container img {
     border-radius: 50px;
 }
+
+#benefits-contact {
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
+
+#benefits-contact button {
+    font-size: inherit;
+    padding: 10px;
+    margin: 0;
+}
+
 
 /* Footer */
 
