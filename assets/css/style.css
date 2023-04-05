@@ -191,3 +191,47 @@ footer {
     color: azure;
     padding: 10px;
 }
+
+/* team section */
+
+.team {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.team h2 {
+    text-align: center;
+    font-size: 40px;
+    padding: 40px 0;
+}
+
+
+#team-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 0;
+}
+
+#team-container img {
+    border-radius: 50px 50px 0 0;
+    width: 100%;
+}
+
+.team-member {
+    width: 20%;
+    border-radius: 50px;
+    background-color: lightcoral;
+}
+
+.info {
+    padding: 10px 0;
+}
+
+.info p {
+    font-size: 20px;
+}
+
+.info h4 {
+    font-size: 30px;
+}
