@@ -326,6 +326,10 @@ footer {
     padding: 20px 0;
 }
 
+.pricing table {
+    margin: auto;
+}
+
 /* Timetable */
 
 .times {
@@ -336,4 +340,30 @@ footer {
     font-size: 40px;
     padding: 40px 0;
     line-height: 45px;
+}
+
+.times table {
+    width: 100%;
+}
+
+/* global table styling */
+
+table {
+    font-size: 20px;
+    padding: 30px;
+}
+
+th {
+    font-weight: 700;
+    background-color: mediumvioletred;
+    color: white;
+    padding: 0 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(202, 181, 195);
 }
