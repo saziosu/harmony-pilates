@@ -308,3 +308,32 @@ footer {
     width: 40%;
     font-size: 130%;
 }
+
+/* Pricing */
+
+.pricing {
+    text-align: center;
+}
+
+.pricing h2 {
+    font-size: 40px;
+    padding: 40px 0;
+    line-height: 45px;
+}
+
+.pricing h3 {
+    font-size: 1.7rem;
+    padding: 20px 0;
+}
+
+/* Timetable */
+
+.times {
+    text-align: center;
+}
+
+.times h2 {
+    font-size: 40px;
+    padding: 40px 0;
+    line-height: 45px;
+}
