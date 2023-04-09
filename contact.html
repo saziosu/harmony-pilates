@@ -52,7 +52,42 @@
         </nav>
     </section>
     <section id="contact-form">
-
+        <div id="form-container">
+            <form method="POST" action="https://formdump.codeinstitute.net/">
+                <label for="fname">First Name:</label>
+                <input type="text" name="fname" id="fname" placeholder="Your First Name" required>
+                <br>
+                <label for="lname">Last Name:</label>
+                <input type="text" name="lname" id="lname" placeholder="Your Last Name" required>
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" placeholder="Your Email Address" required>
+                <br>
+                <label for="phone">Phone Number:</label>
+                <input type="tel" name="phone" id="phone" placeholder="Your Phone Number">
+                <br>
+                <h4>Your Experience Level:</h4>
+                <input type="radio" name="experience" id="beginner" required>
+                <label for="beginner">Beginner</label>
+                <input type="radio" name="experience" id="intermediate">
+                <label for="intermediate">Intermediate</label>
+                <input type="radio" name="experience" id="advanced">
+                <label for="advanced">Advanced</label>
+                <br>
+                <label for="session">Session Format:</label>
+                <select name="session" id="session">
+                    <option value="mat-class">Mat Class</option>
+                    <option value="mat-single">Mat 1:1</option>
+                    <option value="ref-class">Reformer Class</option>
+                    <option value="ref-single">Reformer 1:1</option>
+                    <option value="custom">Custom/Corporate</option>
+                </select>
+                <br>
+                <label for="message">Your Message:</label>
+                <br>
+                <textarea name="message" id="message" cols="30" rows="10" required placeholder="Type your messagae here!"></textarea>
+            </form>
+        </div>
     </section>
 
     <footer>
