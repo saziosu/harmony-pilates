@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,6 +10,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Harmony Pilates | Contact</title>
 </head>
+
 <body>
     <header>
         <a href="index.html">
@@ -23,33 +25,35 @@
         </nav>
         <a class="contact-button" href="contact.html"><button>Contact</button></a>
     </header>
-    
+
     <section id="details">
-        <nav id="addres">
-            <h3>Address:</h3>
-            <p>22 Flow Ave
-                <br>
-                Arthur's Quay
-                <br>
-                Limerick
-            </p>
-        </nav>
-        <nav id="open">
-            <h3>Open Hours:</h3>
-            <p>
-                Monday - Saturday
-                <br>
-                06:00 - 20:00
-            </p>
-        </nav>
-        <nav id="comm">
-            <h3>Contact Details</h3>
-            <p>
-                Tel: <a href="tel:0612345678">0612345678</a>
-                <br>
-                Email: <a href="mailto:hello@harmonypilates.com">hello@harmonypilates.com</a>
-            </p>
-        </nav>
+        <div id="details-container">
+            <div id="addres">
+                <h3>Address:</h3>
+                <p>22 Flow Ave
+                    <br>
+                    Arthur's Quay
+                    <br>
+                    Limerick
+                </p>
+            </div>
+            <div id="open">
+                <h3>Open Hours:</h3>
+                <p>
+                    Monday - Saturday
+                    <br>
+                    06:00 - 20:00
+                </p>
+            </div>
+            <div id="comm">
+                <h3>Contact Details</h3>
+                <p>
+                    Tel: <a href="tel:0612345678">0612345678</a>
+                    <br>
+                    Email: <a href="mailto:hello@harmonypilates.com">hello@harmonypilates.com</a>
+                </p>
+            </div>
+        </div>
     </section>
     <section id="contact-form">
         <div id="form-container">
@@ -85,7 +89,10 @@
                 <br>
                 <label for="message">Your Message:</label>
                 <br>
-                <textarea name="message" id="message" cols="30" rows="10" required placeholder="Type your messagae here!"></textarea>
+                <textarea name="message" id="message" cols="50" rows="20" required
+                    placeholder="Type your message here!"></textarea>
+                <button type="submit">Send Message</button>
+                <button type="reset">Reset Form</button>
             </form>
         </div>
     </section>
@@ -113,4 +120,5 @@
         <script src="https://kit.fontawesome.com/c1c465c0af.js" crossorigin="anonymous"></script>
     </footer>
 </body>
+
 </html>
