@@ -381,16 +381,58 @@ tr:nth-child(odd) {
 
 /* contact form */
 
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contact-form h2 {
+    font-size: 40px;
+    padding: 40px 0;
+    line-height: 45px;
+    text-align: center;
+}
+
 #form-container {
+    margin: 50px;
     width: 30%;
-    margin: 50px auto;
+    background-color: darkmagenta;
+    padding: 20px
+}
+
+#contact-form button {
+    margin: 0;
 }
 
 form {
     font-size: 20px;
+    text-align: center;
 }
 
-form input,select {
-    margin-bottom: 20px;
+
+form input,select,label {
+    margin: 5px 0 20px 0;
     height: 20px;
+    text-align: center;
+}
+
+form input[type=text],[type=email],[type=tel] {
+    width: 100%;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+form select,textarea {
+    width: 100%;
+    border-radius: 15px;
+}
+
+form select {
+    height: 30px;
+}
+
+form textarea {
+    padding: 20px;
+    margin-top: 5px;
 }
