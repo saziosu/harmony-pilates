@@ -15,9 +15,9 @@ p {
 
 li, a, button {
     font-family: "Work Sans", sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    color: purple;
+    font-weight: 900;
+    font-size: 25px;
+    color: #f3e5ef;
     text-decoration: none;
 }
 
@@ -28,7 +28,8 @@ header {
     padding: 30px 10%;
     border-bottom: 5px;
     border-style: solid;
-    border-bottom-color: purple;
+    border-bottom-color: #f3e5ef;
+    background-color: #D43790;
 }
 
 #logo {
@@ -45,17 +46,17 @@ header {
 }
 
 button {
-    background-color: rgb(171, 92, 236);
+    background-color: #f3e5ef;
     padding: 9px 30px;
     border: none;
     border-radius: 50px;
     cursor: pointer;
-    color: white;
+    color: #D43790;
     margin-left: 40px;
 }
 
 button:hover {
-    background-color: rgba(213, 28, 136, 0.748);
+    background-color: #FFCF57;
 }
 
 /* hero image */
@@ -84,16 +85,16 @@ button:hover {
     position: absolute;
     border: none;
     border-radius: 50px;
-    color: purple;
-    background-color: lavender;
+    color: #f3e5ef;
+    background-color: #D43790;
     
 }
 
 /* What is Pilates section */
 
 .what-is-pilates {
-    background-color: purple;
-    background-image: linear-gradient(to right, #c429a8, purple);
+    background-color: #870A30;
+    background-image: linear-gradient(to right, #b40f6d, #c43799);
 }
 
 .what-is-pilates img {
@@ -116,7 +117,7 @@ button:hover {
 
 #what-is-text {
     font-size: 150%;
-    color: azure;
+    color: #f3e5ef;
     height: auto;
     width: 50%;
     margin-left: 50px;
@@ -126,10 +127,15 @@ button:hover {
 
 /* benefits section */
 
+.benefits {
+    background-color: #f3e5ef;
+}
+
 .benefits h2 {
     text-align: center;
     font-size: 40px;
     padding: 40px 0;
+    color: #c51177;
 }
 
 #benefits-container {
@@ -144,6 +150,7 @@ button:hover {
     padding: 40px;
     margin-top: 15px;
     font-size: 30px;
+    color: #D43790;
 }
 
 #benefits-container img {
@@ -154,19 +161,25 @@ button:hover {
     text-align: center;
     padding: 30px;
     font-size: 20px;
+    color: D43790;
 }
 
-#benefits-contact button {
-    font-size: inherit;
-    padding: 10px;
-    margin: 0;
+#benefits-contact p {
+    font-size: 25px;
+    color: #D43790;
+    font-family: "Work Sans", sans-serif;
 }
 
+#benefits-contact a {
+    color: #a01765;
+    font-size: 25px;
+    text-decoration: underline;
+}
 
 /* Footer */
 
 footer {
-    background-color: rgb(213, 53, 146);
+    background-color: #D43790;
     display: flex;
     justify-content: space-evenly;
     padding: 40px;
@@ -177,18 +190,18 @@ footer {
 }
 
 #links-container a {
-    color: azure;
+    color: #f3e5ef;
     padding: 10px;
     align-self: center;
 }
 
 #social-container {
-    color: azure;
+    color: #f3e5ef;
     text-align: center;
 }
 
 #social-container i {
-    color: azure;
+    color: #f3e5ef;
     padding: 10px;
 }
 
@@ -247,11 +260,12 @@ footer {
 .team-member {
     width: 20%;
     border-radius: 50px;
-    background-color: lightcoral;
+    background-color: #008B7D;
 }
 
 .info {
     padding: 10px 0;
+    color: #f3e5ef;
 }
 
 .info p {
