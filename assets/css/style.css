@@ -377,7 +377,16 @@ tr:nth-child(odd) {
     align-items: center;
     justify-content: space-evenly;
     margin: 100px 0;
+    padding-left: 100px;
 }
+
+#details h2 {
+    font-size: 40px;
+    padding: 40px 0;
+    line-height: 45px;
+    text-align: center;
+}
+
 
 /* contact form */
 
@@ -385,6 +394,8 @@ tr:nth-child(odd) {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-image: url(../images/group-reformer.jpg);
+    background-size: cover;
 }
 
 #contact-form h2 {
@@ -392,13 +403,15 @@ tr:nth-child(odd) {
     padding: 40px 0;
     line-height: 45px;
     text-align: center;
+    color: white;
 }
 
 #form-container {
     margin: 50px;
     width: 30%;
     background-color: darkmagenta;
-    padding: 20px
+    padding: 20px;
+    border-radius: 20px;
 }
 
 #contact-form button {
