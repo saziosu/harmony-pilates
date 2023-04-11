@@ -247,12 +247,11 @@ footer {
 #studio-text {
     width: 40%;
     font-size: 22px;
-    letter-spacing: 1.5px;
 }
 
 #studio-text a {
  color: #8E0B55;
-    font-size: 20px;
+    font-size: 22px;
     font-family: "Merriweather", sans-serif;
     text-decoration: underline;
 }
@@ -540,4 +539,24 @@ form select {
 form textarea {
     padding: 20px;
     margin-top: 5px;
+}
+
+
+/* for medium sized screens 1000px and lower */
+
+@media screen and (max-width: 1000px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        }
+    nav ul {
+        padding: 30px 0;
+    }
+
+    .contact-button button {
+        margin-left: 0;
+        padding: 5px
+    }
 }
