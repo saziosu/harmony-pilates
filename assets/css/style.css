@@ -423,19 +423,31 @@ tr:nth-child(odd) {
 
 /* details section */
 
+#details {
+    background-color: #f3e5ef;
+}
+
 #details-container {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin: 100px 0;
     padding-left: 100px;
+    padding-bottom: 50px;
+    color: #8E0B55;
 }
+
+#details-container a {
+    color: #8E0B55;
+    font-size: 15px;
+}
+
 
 #details h2 {
     font-size: 40px;
-    padding: 40px 0;
+    padding: 30px 0;
     line-height: 45px;
     text-align: center;
+    color: #8E0B55;
 }
 
 
@@ -454,7 +466,7 @@ tr:nth-child(odd) {
     padding: 10px 0;
     line-height: 45px;
     text-align: center;
-    color: white;
+    color: #f3e5ef;
     margin-top: 150px
 }
 
