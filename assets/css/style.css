@@ -76,22 +76,25 @@ nav a:hover {
     width: 100%;
     background: url(../images/hero-pilates.webp) no-repeat center 100%;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #mission-statement {
-    width: 350px;
-    height: 120px;
     font-family: "Work Sans", sans-serif;
     font-size: 120%;
     padding: 30px;
-    bottom: 100px;
-    right: 150px;
-    position: absolute;
     border: none;
-    border-radius: 50px;
+    border-radius: 10px;
     color: #f3e5ef;
-    background-color: #F95179;
-    
+    background-color: rgba(249, 81, 121, 0.8);
+    text-align: center;
+    margin-top: 10%;
+}
+
+#mission-statement h1 {
+    text-transform: uppercase;
 }
 
 /* What is Pilates section */
