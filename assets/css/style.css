@@ -451,22 +451,27 @@ tr:nth-child(odd) {
 
 #contact-form h2 {
     font-size: 40px;
-    padding: 40px 0;
+    padding: 10px 0;
     line-height: 45px;
     text-align: center;
     color: white;
+    margin-top: 150px
 }
 
 #form-container {
     margin: 50px;
     width: 30%;
-    background-color: darkmagenta;
+    background-color: #F95179;
     padding: 20px;
     border-radius: 20px;
 }
 
 #contact-form button {
     margin: 0;
+    padding: 0 10px;
+    background-color: #f3e5ef;
+    color: #D43790;
+    margin-top: 10px;
 }
 
 form {
