@@ -56,7 +56,7 @@ button {
 }
 
 button:hover {
-    background-color: #FFCF57;
+    background-color: #37D47B;
 }
 
 /* hero image */
@@ -215,7 +215,7 @@ footer {
     text-align: center;
     font-size: 40px;
     padding: 40px 0;
-     color: #c51177;
+     color: #8E0B55;
 }
 
 .studio img {
@@ -227,7 +227,7 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     padding: 40px 0;
-    color: #c51177;
+    color: #8E0B55;
 
 }
 
@@ -238,7 +238,7 @@ footer {
 }
 
 #studio-text a {
- color: #a01765;
+ color: #8E0B55;
     font-size: 20px;
     font-family: "Merriweather", sans-serif;
     text-decoration: underline;
@@ -259,7 +259,7 @@ footer {
     font-size: 40px;
     padding: 40px 0;
     line-height: 45px;
-    color: #c51177;
+    color: #8E0B55;
 }
 
 
