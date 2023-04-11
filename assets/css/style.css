@@ -90,7 +90,7 @@ nav a:hover {
     border: none;
     border-radius: 50px;
     color: #f3e5ef;
-    background-color: #D43790;
+    background-color: #F95179;
     
 }
 
@@ -98,7 +98,7 @@ nav a:hover {
 
 .what-is-pilates {
     background-color: #870A30;
-    background-image: linear-gradient(to right, #b40f6d, #c43799);
+    background-image: linear-gradient(to right, #b40f6d, #F95179);
 }
 
 .what-is-pilates img {
