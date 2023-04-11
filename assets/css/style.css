@@ -135,7 +135,7 @@ button:hover {
     text-align: center;
     font-size: 40px;
     padding: 40px 0;
-    color: #c51177;
+    color: #8E0B55;
 }
 
 #benefits-container {
@@ -150,7 +150,7 @@ button:hover {
     padding: 40px;
     margin-top: 15px;
     font-size: 30px;
-    color: #D43790;
+    color: #8E0B55;
 }
 
 #benefits-container img {
@@ -166,12 +166,12 @@ button:hover {
 
 #benefits-contact p {
     font-size: 25px;
-    color: #D43790;
+    color: #8E0B55;
     font-family: "Work Sans", sans-serif;
 }
 
 #benefits-contact a {
-    color: #a01765;
+    color: #8E0B55;
     font-size: 25px;
     text-decoration: underline;
 }
@@ -233,7 +233,8 @@ footer {
 
 #studio-text {
     width: 40%;
-    font-size: 20px;
+    font-size: 22px;
+    letter-spacing: 1.5px;
 }
 
 #studio-text a {
