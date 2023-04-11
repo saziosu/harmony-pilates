@@ -306,17 +306,22 @@ footer {
 
 /* services section */
 
+.services {
+    background-color: #f3e5ef;
+}
 
 .services h2 {
     text-align: center;
     font-size: 40px;
     padding: 40px 0;
     line-height: 45px;
+    color: #8E0B55;
 }
 
 .services h3 {
     font-size: 2rem;
     padding: 20px 0;
+    color: #8E0B55;
 }
 
 .services img {
@@ -329,6 +334,7 @@ footer {
     padding: 0 0 50px 0;
     width: 60%;
     margin: auto;
+    color: #8E0B55;
 }
 
 #mat-container {
@@ -337,11 +343,13 @@ footer {
     align-items: center;
     margin: 100px 0;
     padding-bottom: 50px;
+
 }
 
 #mat-text {
     width: 40%;
     font-size: 130%;
+    color: #8E0B55;
 }
 
 #reformer-container {
@@ -349,20 +357,24 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     flex-direction: row-reverse;
-    margin: 100px 0;
+    margin: 100px 0 0 0;
     text-align: right;
-    padding-top: 50px;
+    padding: 50px 0;
 }
 
 #reformer-text {
     width: 40%;
     font-size: 130%;
+    color: #8E0B55;
 }
 
 /* Pricing */
 
 .pricing {
     text-align: center;
+    background-color: #f3e5ef;
+    color: #8E0B55;
+    
 }
 
 .pricing h2 {
@@ -380,23 +392,32 @@ footer {
     margin: auto;
 }
 
+.pricing p {
+    font-size: 20px;
+}
 /* Timetable */
 
 .times {
     text-align: center;
     margin-bottom: 60px;
+    background-color: #f3e5ef;
+    color: #8E0B55;
 }
 
 .times h2 {
     font-size: 40px;
     padding: 40px 0;
     line-height: 45px;
+    color: #8E0B55;
 }
 
 .times table {
     width: 100%;
 }
 
+.times p {
+    font-size: 20px;
+}
 /* global table styling */
 
 table {
@@ -406,7 +427,7 @@ table {
 
 th {
     font-weight: 700;
-    background-color: mediumvioletred;
+    background-color: #D43790;
     color: white;
     padding: 0 10px;
 }
@@ -416,7 +437,7 @@ td {
 }
 
 tr:nth-child(odd) {
-    background-color: rgb(202, 181, 195);
+    background-color: #f8acd7;
 }
 
 /* contact page */
