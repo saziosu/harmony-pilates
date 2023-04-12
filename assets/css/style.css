@@ -354,6 +354,7 @@ footer {
     color: #8E0B55;
 }
 
+
 #reformer-container {
     display: flex;
     justify-content: space-evenly;
@@ -542,9 +543,9 @@ form textarea {
 }
 
 
-/* for medium sized screens 1100px and lower */
+/* for medium sized screens 1200px and lower */
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1200px) {
 
     /* header */
     header {
