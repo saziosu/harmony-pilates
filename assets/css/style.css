@@ -578,4 +578,13 @@ form textarea {
         width: 80%;
         padding-bottom: 30px;
     }
+
+    #team-container {
+        flex-direction: column;
+    }
+    
+    .team-member {
+        width: 40%;
+        margin: 30px 0;
+    }
 }
