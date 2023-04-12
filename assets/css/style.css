@@ -565,8 +565,17 @@ form textarea {
         overflow: hidden;
     }
     #what-is-text {
-        width: 100%;
+        width: 80%;
         padding: 20px;
     }
-    
+
+    #studio-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #studio-text {
+        width: 80%;
+        padding-bottom: 30px;
+    }
 }
