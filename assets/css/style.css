@@ -564,27 +564,31 @@ form textarea {
         flex-direction: column;
         overflow: hidden;
     }
+    
     #what-is-text {
-        width: 80%;
+        width: 100%;
         padding: 20px;
     }
-
-    #studio-container {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    #studio-text {
-        width: 80%;
-        padding-bottom: 30px;
-    }
-
-    #team-container {
-        flex-direction: column;
-    }
     
-    .team-member {
-        width: 40%;
-        margin: 30px 0;
+    #mat-container {
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+    #mat-text {
+        width: 80%;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    #reformer-container {
+        flex-direction: column;
+        overflow: hidden
+    }
+
+    #reformer-text {
+        width: 80%;
+        padding-bottom: 40px;
+        text-align: center;
     }
 }
