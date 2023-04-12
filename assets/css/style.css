@@ -564,6 +564,10 @@ form textarea {
         flex-direction: column;
         overflow: hidden;
     }
+
+    .what-is-pilates img {
+        margin: 0;
+    }
     
     #what-is-text {
         width: 100%;
