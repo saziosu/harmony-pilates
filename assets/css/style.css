@@ -402,7 +402,6 @@ footer {
 
 .times {
     text-align: center;
-    margin-bottom: 60px;
     background-color: #f3e5ef;
     color: #8E0B55;
 }
@@ -1280,6 +1279,12 @@ form textarea {
         background-color: #D43790;
         color: white
     }
+
+    .table-container table {
+        width: 100%;
+        padding: 10% 0;
+    }
+
 
     /* contact details */
     #details-container {
