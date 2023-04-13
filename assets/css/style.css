@@ -1358,4 +1358,8 @@ form textarea {
     #form-container {
         width: 100%;
     }
+
+    form {
+        font-size: 15px;
+    }
 }
