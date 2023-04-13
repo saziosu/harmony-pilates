@@ -1285,6 +1285,10 @@ form textarea {
         padding: 10% 0;
     }
 
+    .table-container td {
+        font-size: 15px;
+    }
+
 
     /* contact details */
     #details-container {
