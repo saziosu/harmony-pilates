@@ -648,6 +648,17 @@ form textarea {
 /* small screens 800px and below */
 @media screen and (max-width: 800px) {
 
+        /* nav bar links */
+    .nav-links {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-links li {
+        padding: 10px 0;
+    }
+    
     /* benfits of pilates section */
 
     .benefits {
@@ -716,16 +727,6 @@ form textarea {
 /* for smaller phone screens 500px and below */
 @media screen and (max-width: 500px) {
 
-    /* nav bar links */
-    .nav-links {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .nav-links li {
-        padding: 10px 0;
-    }
 
     /* contact form */
     #form-container {
