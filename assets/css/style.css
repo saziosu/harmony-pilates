@@ -23,6 +23,10 @@ button {
     text-decoration: none;
 }
 
+button > a {
+    color: #D43790;
+}
+
 header {
     display: flex;
     justify-content: space-between;
