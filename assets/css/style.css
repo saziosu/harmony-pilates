@@ -1303,6 +1303,10 @@ form textarea {
         padding: 15px;
     }
 
+    #details-container h3 {
+        padding: 20px 0 0 0 ;
+    }
+    
     /* contact form */
     #form-container {
         width: 80%;
