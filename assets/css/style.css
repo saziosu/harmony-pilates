@@ -24,12 +24,10 @@ a {
 
 .button {
   background-color: #f3e5ef;
-  padding: 9px 30px;
+  padding: 9px 10px;
   border: none;
   border-radius: 50px;
-  cursor: pointer;
   color: #D43790;
-  margin-left: 40px;
   text-decoration: none;
 }
 
@@ -37,7 +35,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 30px 3%;
     border-bottom: 5px;
     border-style: solid;
     border-bottom-color: #F95179;
