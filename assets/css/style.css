@@ -1252,6 +1252,24 @@ form textarea {
 /* small screens 800px and below */
 @media screen and (max-width: 800px) {
 
+    /* benfits of pilates section */
+
+    .benefits {
+        overflow: hidden;
+    }
+    
+    #benefits-container {
+        flex-direction: column-reverse;
+        width: 60%;
+        align-items: center;
+        margin: auto;
+    }
+
+    #benefits-container li {
+        padding: 20px;
+    }
+
+    /* classes timetable */
     .table-container {
         overflow: scroll;
     }
