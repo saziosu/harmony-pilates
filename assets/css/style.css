@@ -507,13 +507,21 @@ tr:nth-child(odd) {
     border-radius: 20px;
 }
 
-#contact-form button {
+/* form button styling */
+
+form button {
     margin: 0;
     padding: 0 10px;
     background-color: #f3e5ef;
-    color: #D43790;
+    color: #8E0B55;
     margin-top: 10px;
+    font-size: 25px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
 }
+
+/* global form settings */
 
 form {
     font-size: 20px;
@@ -551,6 +559,7 @@ form textarea {
     padding: 20px;
     margin-top: 5px;
 }
+
 
 
 /* for medium sized screens 1200px and lower */
