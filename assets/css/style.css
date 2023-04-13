@@ -44,6 +44,11 @@ header {
     background-color: #D43790;
 }
 
+.button:hover {
+    background-color: #f2cb97;
+    color: #D43790; 
+}
+
 #logo {
     cursor: pointer;
 }
@@ -57,19 +62,7 @@ header {
     padding: 0px 20px;
 }
 
-button {
-    background-color: #f3e5ef;
-    padding: 9px 30px;
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    color: #D43790;
-    margin-left: 40px;
-}
 
-button:hover {
-    background-color: #f2cb97;
-}
 
 nav a:hover {
     color: #f2cb97
