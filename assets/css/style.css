@@ -14,7 +14,7 @@ p {
 /* allowing images to fit smaller screens */
 img {
     min-width: 300px;
-    max-width: 100%;
+    max-width: 95%;
     height: auto;
 }
 
@@ -295,6 +295,7 @@ footer {
 #team-container img {
     border-radius: 50px 50px 0 0;
     width: 100%;
+    max-width: 100%;
 }
 
 .team-member {
