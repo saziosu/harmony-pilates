@@ -11,6 +11,13 @@ p {
     font-family: "Merriweather", sans-serif;
 }
 
+/* allowing images to fit smaller screens */
+img {
+    min-width: 300px;
+    max-width: 100%;
+    height: auto;
+}
+
 /* navigation styles */
 
 nav li,
