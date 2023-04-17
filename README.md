@@ -36,33 +36,25 @@ xxxxxxxxxx
 
 Wireframes for homepage
 
-<details>
 ![](assets/images/readme/wireframes-homepage.png)
-</details>
 
 ### About
 
 Wireframes for about page 
 
-<details>
 ![](assets/images/readme/wireframes-about.png)
-</details>
 
 ### Services
 
 Wireframes for services page 
 
-<details>
 ![](assets/images/readme/wireframes-services.png)
-</details>
 
 ### Contact
 
 Wireframes for contact page
 
-<details>
 ![](assets/images/readme/wireframes-contact.png)
-</details>
 
 # Design 
 
