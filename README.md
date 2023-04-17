@@ -77,3 +77,5 @@ San-serif was the fallback font used for both imported fonts.
 ## Imagery
 
 Images were downloaded from [Pexels](https://www.pexels.com/) and [ShutterStock](https://www.shutterstock.com/)
+
+# Features
