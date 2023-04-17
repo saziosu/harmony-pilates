@@ -17,8 +17,8 @@ xxxxxxxxxx
 ## User Stories
 
 * First Time User
-*  Returning User
-*  Frequent User
+* Returning User
+* Frequent User
 
 # Wireframes
 
