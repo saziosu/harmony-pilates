@@ -30,7 +30,31 @@ xxxxxxxxxx
 
 ## Wireframes
 
-Crucial to planning out the structure of the project. Balsamiq was used to create the wireframes for desktop, tablet and mobile.
+ Balsamiq was used to create the wireframes for desktop, tablet and mobile.
+
+### Home
+
+Wireframes for homepage
+
+![](assets/images/readme/wireframes-homepage.png)
+
+### About
+
+Wireframes for about page 
+
+![](assets/images/readme/wireframes-about.png)
+
+### Services
+
+Wireframes for services page 
+
+![](assets/images/readme/wireframes-services.png)
+
+### Contact
+
+Wireframes for contact page
+
+![](assets/images/readme/wireframes-contact.png)
 
 ## Design 
 
