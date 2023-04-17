@@ -4,7 +4,7 @@
 
 A site for a pilates studio based in Limerick, Ireland. The site is aimed at providing information and contact details for users that are interesting in attending pilates sessions.
 
-![](assets/images/readme/responsive.png))
+![](assets/images/readme/responsive.png)
 
 ---
 
@@ -56,8 +56,13 @@ Wireframes for contact page
 
 ![](assets/images/readme/wireframes-contact.png)
 
-## Design 
+# Design 
 
-* Color Scheme
-* Typography
+## Color Scheme
+Shades of pink were chosen to invoke a playful and energetic response in the user.
+Fonts were set as the claret color to esure there was enough constract to allow for accessibility.
+
+![](assets/images/readme/coolers-palette.png)
+
+## Typography
 * Imagery
