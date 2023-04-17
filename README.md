@@ -64,5 +64,16 @@ Fonts were set as the claret color to esure there was enough constract to allow 
 
 ![](assets/images/readme/coolers-palette.png)
 
+The text on the team section under About was changed to white, to ensure enough contrast for accessibility.
+
+
 ## Typography
-* Imagery
+
+[FontPair](https://www.fontpair.co/pairings/work-sans-merriweather) was used to generate a matching set of fonts from GoogleFonts.
+Work Sans was used for the headings. Merriweather was used for the paragraphs.
+
+San-serif was the fallback font used for both imported fonts.
+
+## Imagery
+
+Images were downloaded from [Pexels](https://www.pexels.com/) and [ShutterStock](https://www.shutterstock.com/)
