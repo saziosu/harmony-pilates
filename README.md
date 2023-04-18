@@ -81,6 +81,7 @@ The text on the team section under the About page was changed to white, to ensur
 ## Imagery
 
 Images were downloaded from [Pexels](https://www.pexels.com/) and [ShutterStock](https://www.shutterstock.com/)
+<br>
 Further information is present in the credits section.
 
 # Features
@@ -173,3 +174,14 @@ Further information is present in the credits section.
 * The page and social links also have a hover feature to give feedback to the user.
 
 ![](assets/images/readme/footer.png)
+
+## Future Features
+
+    * Online booking system when I have increased my skillset, would be helpful in making signing up easier for both the user and the administrator of the studio.
+    * Custom error pages, such as a 404 would give a more cohesive look and allow the user to continue navigating the site.
+    * Internal pages with videos and instructions for at-home workouts would give the user some further encouragement to practice piltates.
+    * Membership login backend could be implemented with some internal pages to allow users to track their progress
+
+# Testing
+
+[TESTING.md](TESTING.md)
