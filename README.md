@@ -14,16 +14,24 @@ xxxxxxxxxx
 
 # User Experience
 
+The goal of the site is to be brightly colored and eyecatching, while remaining accessible and easy to navigate.
+<br>
+The hover effects on the nav bar and footer give feedback to the user. 
+<br>
+The links for all pages are included in the footer, so that the user is not required to scroll all the way to the top of the page to navigate through the rest of the site.
+<br>
+There are also links within the site's sections, to encourage the user to look at the services offered and contact the studio to sign up.
+
 ## User Stories
 
 * First Time User
     * As a first time user, we want to easily navigate through the website and intuitively know where to learn about the services offered by the pilates studio.
-    * As a first time user, we want to know how much we can expect to pay for each pilates session.
-    * As a first time user, we want to learn how we can get into contact with the pilates studio to sign up for classes and training sessions. 
     * As a first time user, we like to know more about who is running the studio and who we can expect to train with in future.
+    * As a first time user, we want to know where the studio is located to know if it is in our range of travel.
+    * As a first time user, we want to be able to easily contact the studio to ask questions and sign up.
 * Returning User
     * As a returning user, we want to ensure that the timetable matches up with our own schedules so that we can plan accordingly.
-    * As a returning user, we want to ensure that we have the correct contact details and location information for us to access the pilates studio
+    * As a returning user, we want to ensure that we have the correct contact details and location information for us to access the pilates studio.
 * Frequent User
     * As a frequent user, we want to keep up to date with the times of all the classes that we plan to attend.
     * As a frequent user, we want to be aware of any changes in pricing or opening hours.
