@@ -222,6 +222,10 @@ footer {
     padding: 10px;
 }
 
+#social-container i:hover {
+    color: #f2cb97;
+ }
+ 
 
 /* studio section */
 
