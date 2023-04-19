@@ -58,17 +58,21 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 
 ### About Page
 
-[about.html]()
+[about.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/about.html)
+
+![wave about.html test](assets/images/readme/wave-about.png)
 
 ### Services Page
 
 [services.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/services.html)
 
-! [wave index.html test]
+![wave services.html test](assets/images/readme/wave-services.png)
 
 ### Contact 
 
 [contact.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/contact.html)
+
+![wave contact.html test](assets/images/readme/wave-contact.png)
 
 
 # Manual Testing
@@ -113,3 +117,15 @@ A wide range of devices were used.
 * Windows: Windows 11 (Chrome, Firefox, Edge)
 
 * iOS: iPhone 14 Pro (Safari, Chrome)
+
+## Home Page:
+
+| Feature        | Expected                                                                         | Tested                            | Result                                | Pass/Fail |
+|----------------|----------------------------------------------------------------------------------|-----------------------------------|---------------------------------------|-----------|
+| Hovers         | Navbar and Footer links to other pages should display a yellow color on hovering | Hovered over the nav/footer links | Hover links displayed as yellow color | Pass      |
+| Links          | Links to external websites should open in a new tab                              | Clicked social links in footer    | Social links open in a new tab        | Pass      |
+| Internal links | Links to other pages in the content should redirect to the correct page          | Clicked link in homepage section  | Correct page opened in same tab       | Pass      |
+        
+
+## About Page
+
