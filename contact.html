@@ -75,14 +75,14 @@
                 <input type="email" name="email" id="email" placeholder="example@email.com" required>
                 <br>
                 <label for="phone">Phone Number:</label>
-                <input type="tel" name="phone" id="phone" placeholder="+3531234567">
+                <input type="tel" name="phone" id="phone" placeholder="+3531234567" pattern="(\+353)[0-9]{7}" required="">
                 <br>
                 <h4>Your Experience Level:</h4>
-                <input type="radio" name="experience" id="beginner" required>
+                <input type="radio" name="experience" id="beginner" value="beginner" required>
                 <label for="beginner">Beginner</label>
-                <input type="radio" name="experience" id="intermediate">
+                <input type="radio" name="experience" id="intermediate" value="intermediate">
                 <label for="intermediate">Intermediate</label>
-                <input type="radio" name="experience" id="advanced">
+                <input type="radio" name="experience" id="advanced" value="advanced">
                 <label for="advanced">Advanced</label>
                 <br>
                 <label for="session">Session Format:</label>
