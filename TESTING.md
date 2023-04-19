@@ -64,6 +64,12 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 
 [services.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/services.html)
 
+! [wave index.html test]
+
+### Contact 
+
+[contact.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/contact.html)
+
 
 # Manual Testing
 
@@ -95,3 +101,15 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 | As a frequent user, we want to be aware of any changes in pricing or opening hours.                      | There is pricing details on the services page, along with contact info on the contact page. There are also social links listed in the footer to keep up with the studio on social media. |
 
 # Full Testing
+
+A wide range of devices were used.
+
+* MAC: MacBook Pro 14-inch 2021 (Mac OS Ventura) (Chrome, Safari, Firefox)
+
+* Android: OnePlus 7T Pro (Chrome, Firefox)
+
+[Browserstack](https://www.browserstack.com/) was also used to test on the following devices:
+
+* Windows: Windows 11 (Chrome, Firefox, Edge)
+
+* iOS: iPhone 14 Pro (Safari, Chrome)
