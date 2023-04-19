@@ -67,8 +67,6 @@ header {
     padding: 0px 20px;
 }
 
-
-
 nav a:hover {
     color: #f2cb97
 }
@@ -78,7 +76,6 @@ nav a:hover {
 .hero-section {
     overflow: hidden;
     background-color: rgba(170, 14, 105, 1);
-
 }
 
 #hero-image {
@@ -197,7 +194,6 @@ footer {
     padding: 40px;
 }
 
-
 #links-container {
     padding: 10px 0;
 }
@@ -226,7 +222,6 @@ footer {
     color: #f2cb97;
  }
  
-
 /* studio section */
 
 .studio {
@@ -265,8 +260,6 @@ footer {
     text-decoration: underline;
 }
 
-
-
 /* team section */
 
 .team {
@@ -282,7 +275,6 @@ footer {
     line-height: 45px;
     color: #8E0B55;
 }
-
 
 #team-container {
     display: flex;
@@ -457,8 +449,6 @@ tr:nth-child(odd) {
     background-color: #f8acd7;
 }
 
-/* contact page */
-
 /* details section */
 
 #details {
@@ -537,7 +527,6 @@ form {
     text-align: center;
 }
 
-
 form input,
 select,
 label {
@@ -568,8 +557,6 @@ form textarea {
     padding: 20px;
     margin-top: 5px;
 }
-
-
 
 /* for medium sized screens 1200px and lower */
 
@@ -661,7 +648,6 @@ form textarea {
     }
 }
 
-
 /* small screens 800px and below */
 @media screen and (max-width: 800px) {
 
@@ -714,7 +700,6 @@ form textarea {
         font-size: 15px;
     }
 
-
     /* contact details */
     #details-container {
         flex-direction: column;
@@ -739,7 +724,6 @@ form textarea {
         flex-direction: column;
     }
 }
-
 
 /* for smaller phone screens 500px and below */
 @media screen and (max-width: 500px) {
