@@ -46,6 +46,25 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 ### Contact
 ![Lighthouse Contact](assets/images/readme/lighthouse-contact.png)
 
+## WAVE
+
+[WAVE](https://wave.webaim.org/) was used to check accessibility
+
+### Home Page
+
+[index.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/index.html)
+
+![wave index.html test](assets/images/readme/wave-index.png)
+
+### About Page
+
+[about.html]()
+
+### Services Page
+
+[services.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/services.html)
+
+
 # Manual Testing
 
 ## User Testing

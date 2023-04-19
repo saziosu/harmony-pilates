@@ -44,6 +44,11 @@ There are also links within the site's sections, to encourage the user to look a
 
 Wireframes for homepage
 
+<details>
+<summary>Click to Expand</summary>
+![](assets/images/readme/wireframes-homepage.png)
+</details>
+
 ![](assets/images/readme/wireframes-homepage.png)
 
 ### About
@@ -185,10 +190,33 @@ Further information is present in the credits section.
 
 ## Future Features
 
-    * Online booking system when I have increased my skillset, would be helpful in making signing up easier for both the user and the administrator of the studio.
-    * Custom error pages, such as a 404 would give a more cohesive look and allow the user to continue navigating the site.
-    * Internal pages with videos and instructions for at-home workouts would give the user some further encouragement to practice piltates.
-    * Membership login backend could be implemented with some internal pages to allow users to track their progress
+* Online booking system when I have increased my skillset, would be helpful in making signing up easier for both the user and the administrator of the studio.
+* Custom error pages, such as a 404 would give a more cohesive look and allow the user to continue navigating the site.
+* Internal pages with videos and instructions for at-home workouts would give the user some further encouragement to practice piltates.
+* Membership login backend could be implemented with some internal pages to allow users to track their progress
+
+## Accessibility
+
+* Semantic HTML was used throughout the site to ensure accessability
+* Links to external resources and other pages in the footer were given `aria-label` attributes to ensure those using screenreaders are aware of their purpose and action
+
+# Technology Used
+
+## Languages
+
+* HTML
+* CSS
+
+## Frameworks, Libraries & Programs 
+
+* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes to plan out the website.
+* [Fontpair](https://www.fontpair.co/pairings/work-sans-merriweather) was used to pick complementary fonts
+* [FontAwesome](https://fontawesome.com/) was used to pick the social icons
+* [Coolers](https://coolors.co/) was used to to pick the color palette
+* [Pixlr](https://pixlr.com/) was used for image editing
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) was used to construct a flexible layout and responsive design
+
+
 
 # Testing
 
