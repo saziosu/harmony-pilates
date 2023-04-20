@@ -241,6 +241,7 @@ Further information is present in the credits section.
 
 * [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes to plan out the website.
 * [Fontpair](https://www.fontpair.co/pairings/work-sans-merriweather) was used to pick complementary fonts
+* [GoogleFonts](https://fonts.google.com/) were used to import the font
 * [FontAwesome](https://fontawesome.com/) was used to pick the social icons
 * [Coolers](https://coolors.co/) was used to to pick the color palette
 * [Pixlr](https://pixlr.com/) was used for image editing
