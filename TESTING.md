@@ -133,7 +133,7 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 
 # Full Testing
 
-A wide range of devices were used.
+A range of devices were used.
 
 * MAC: MacBook Pro 14-inch 2021 (Mac OS Ventura) (Chrome, Safari, Firefox)
 
