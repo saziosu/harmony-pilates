@@ -43,7 +43,7 @@ Link for the finished deployed site: [Harmony Pilates](https://saziosu.github.io
 [W3C](https://validator.w3.org/) was used to validate the HTML code across all pages of the website.
 All tests were passed:
 
-* [Index)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsaziosu.github.io%2Fharmony-pilates%2Findex.html) - passed all checks
+* [Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsaziosu.github.io%2Fharmony-pilates%2Findex.html) - passed all checks
 * [About](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsaziosu.github.io%2Fharmony-pilates%2Fabout.html) - passed all checks
 * [Services](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsaziosu.github.io%2Fharmony-pilates%2Fservices.html) - passed all checks
 * [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsaziosu.github.io%2Fharmony-pilates%2Fcontact.html) - passed all checks
