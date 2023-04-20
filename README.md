@@ -76,11 +76,6 @@ There are also links within the site's sections, to encourage the user to look a
 
 Wireframes for homepage
 
-<details>
-<summary>Click to Expand</summary>
-![](assets/images/readme/wireframes-homepage.png)
-</details>
-
 ![](assets/images/readme/wireframes-homepage.png)
 
 ### About
