@@ -303,6 +303,6 @@ GitHub pages was used to deploy this site:
 # Acknowledgements
 
 * Graeme Taylor my mentor, for all the help and advice throughout the project
-* Course Facilitator Alan for meeting us with weekly with check ins and keeping moral high
+* Course Facilitator Alan for all the helpful tips and tricks, and great guidance throughout the project
 * [Kera Cudmore](https://github.com/kera-cudmore) for the extremely helpful [Readme documentation](https://github.com/kera-cudmore/readme-examples)
 * [Shelly Maughan](https://github.com/shellym96) for the help, moral support and the laughs!
