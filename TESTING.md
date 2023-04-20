@@ -2,7 +2,7 @@
 
 Link for the finished deployed site: [Harmony Pilates](https://saziosu.github.io/harmony-pilates/)
 
-![](assets/images/readme/responsive.png)
+![](documentation/readme/responsive.png)
 
 
 # Table of Contents
@@ -62,16 +62,16 @@ All tests were passed:
 Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an acceptable level:
 
 ### Homepage
-![Lighthouse index.html](assets/images/readme/lighthouse-index.png)
+![Lighthouse index.html](documentation/readme/lighthouse-index.png)
 
 ### About
-![Lighthouse about](assets/images/readme/lighthouse-about.png)
+![Lighthouse about](documentation/readme/lighthouse-about.png)
 
 ### Services
-![Lighthouse services](assets/images/readme/lighthouse-services.png)
+![Lighthouse services](documentation/readme/lighthouse-services.png)
 
 ### Contact
-![Lighthouse Contact](assets/images/readme/lighthouse-contact.png)
+![Lighthouse Contact](documentation/readme/lighthouse-contact.png)
 
 ## WAVE
 
@@ -81,25 +81,25 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 
 [index.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/index.html)
 
-![wave index.html test](assets/images/readme/wave-index.png)
+![wave index.html test](documentation/readme/wave-index.png)
 
 ### About Page
 
 [about.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/about.html)
 
-![wave about.html test](assets/images/readme/wave-about.png)
+![wave about.html test](documentation/readme/wave-about.png)
 
 ### Services Page
 
 [services.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/services.html)
 
-![wave services.html test](assets/images/readme/wave-services.png)
+![wave services.html test](documentation/readme/wave-services.png)
 
 ### Contact 
 
 [contact.html](https://wave.webaim.org/report#/https://saziosu.github.io/harmony-pilates/contact.html)
 
-![wave contact.html test](assets/images/readme/wave-contact.png)
+![wave contact.html test](documentation/readme/wave-contact.png)
 
 
 # Manual Testing
