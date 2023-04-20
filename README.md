@@ -249,8 +249,20 @@ Further information is present in the credits section.
 * [Coolers](https://coolors.co/) was used to to pick the color palette
 * [Pixlr](https://pixlr.com/) was used for image editing
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) was used to construct a flexible layout and responsive design
+* [Git](https://git-scm.com/) was used for version control
+* [Gitpod](https://gitpod.io/) was used to write the code
+* [GitHub](https://github.com/) was used to deploy the site code.
 
+# Deployment
 
+GitHub pages was used to deploy this site:
+
+1. Login (or signup) to Github.
+2. Go to the repo for the project, [saziosu/harmony-pilates](https://github.com/saziosu/harmony-pilates).
+3. Click the settings button.
+4. Select pages on the left navigation menu.
+5. From the source dropdown select main branch and click save next to it.
+6. The site has been deployed on clicking save, this can take a few moments to generate the live link at the top of the settings page.
 
 # Testing
 
