@@ -4,7 +4,7 @@
 
 A site for a pilates studio based in Limerick, Ireland. The site is aimed at providing information and contact details for users that are interesting in attending pilates sessions.
 
-![](documentation/readme/responsive.png)
+![amiresponsive screenshot](documentation/readme/responsive.png)
 
 ---
 
@@ -76,25 +76,25 @@ There are also links within the site's sections, to encourage the user to look a
 
 Wireframes for homepage
 
-![](documentation/readme/wireframes-homepage.png)
+![Homepage Wireframes](documentation/readme/wireframes-homepage.png)
 
 ### About
 
 Wireframes for about page 
 
-![](documentation/readme/wireframes-about.png)
+![About page wireframes](documentation/readme/wireframes-about.png)
 
 ### Services
 
 Wireframes for services page 
 
-![](documentation/readme/wireframes-services.png)
+![Services page wireframes](documentation/readme/wireframes-services.png)
 
 ### Contact
 
 Wireframes for contact page
 
-![](documentation/readme/wireframes-contact.png)
+![contact page wireframes](documentation/readme/wireframes-contact.png)
 
 # Design 
 
@@ -103,7 +103,7 @@ Shades of pink were chosen to invoke a playful and energetic response in the use
 Fonts were set as the darker `#8E0B55` Claret color to ensure there was enough constract to allow for accessibility.
 Hover effects in the navigation bar and footer were set to the `#F2CB97` Sunset color to give responsive feedback to the user.
 
-![](documentation/readme/coolers-palette.png)
+![Coolers color palette](documentation/readme/coolers-palette.png)
 
 The text on the team section under the About page was changed to white, to ensure enough contrast for accessibility.
 
@@ -136,7 +136,7 @@ Further information is present in the credits section.
 * The navigation bar features a button styled link for contact to highlight to the user where they can easily contact the studio.
 * The navigation bar also features a bottom border with the `#F95179` Bright Pink color to give some constrast at between the navigation bar and following sections.
 * The user can also click on the logo to bring them back to the homepage.
-    ![](documentation/readme/navbar.png)
+    ![Nav Bar screenshot](documentation/readme/navbar.png)
 
 ### **Homepage**
 
@@ -145,23 +145,23 @@ Further information is present in the credits section.
     * The hero page features a woman practicing pilates along with a mission statement overlayed on it. This details to the user what the purpose of the site is; to highlight a pilates studio that provides functional Pilates along with the location. This indicates to the user where the studio is located so they are immediately aware of the area it is based, and subsequently know if that studio is somewhere they would like to attend.
     * The image also grabs the attention of the user, and the color of the image was chosen to match the colors of the rest of the site to give a cohesive effect with the nav bar and following sections.
 
-    ![](documentation/readme/hero-image.png)
+    ![Hero image screenshot](documentation/readme/hero-image.png)
 
 * **Homepage Information Sections**
 
     * There are two sections on the homepage featuring information about pilates. It details what Pilates is and the benefits of practicing it. This encourages the user to undestand how they may benefit from praciting Pilates and understand if its the right choice for them.
     * The benefits section also features a link to the contact page, to invite the user to reach out to the studio.
 
-    ![](documentation/readme/what-is-pilates.png)
+    ![What is pilates screenshot](documentation/readme/what-is-pilates.png)
 
-    ![](documentation/readme/benefits.png)
+    ![benefits of pilates screenshot](documentation/readme/benefits.png)
 
 ### About Page
 
 * **Studio Section**
     * This section provides some background about the pilates studio. It aims to give some history on when the studio was set up, to show the user that the studio provides a premium exeperience and shows some of the benefits of choosing this studio specifically.
 
-    ![](documentation/readme/studio.png)
+    ![studio screenshot](documentation/readme/studio.png)
 
 * **Our Team Section**
     * The team section showcases the founder and instructors providing the service to the user. 
@@ -173,14 +173,14 @@ Further information is present in the credits section.
     * This section shows the user that they can have a fully customizable experience if they choose to practice pilates at the studio. 
     * The section also showcases the different forms of pilates, using Mat and Reformer. This allows the user to understand which option may be best for them, based on their own individual capabilities and requirements.
 
-    ![](documentation/readme/services-mat.png)
-    ![](documentation/readme/services-reformer.png)
+    ![pilates mat screenshot](documentation/readme/services-mat.png)
+    ![reformer pilates screenshot](documentation/readme/services-reformer.png)
 
 * **Pricing Section**
     * The pricing section gives transparency to the user on what they can expect to pay for each service.
     * This section also showcases some introductory offers, to encourage the user to sign up for a lower priced package.
 
-    ![](documentation/readme/pricing.png)
+    ![pricing screenshot](documentation/readme/pricing.png)
 
 * **Timetable Section** 
     * The timetable shows the times of all pilates classes throughout the available hours in the week.
@@ -188,10 +188,10 @@ Further information is present in the credits section.
     * On smaller screens, this features a sticky column for the times, to allow the user to scroll effectively and see the correct times.
 
  
-    ![](documentation/readme/timetable.png)
+    ![timetable screenshot](documentation/readme/timetable.png)
 
    
-    ![](documentation/readme/timetable.gif)
+    ![timetable gif](documentation/readme/timetable.gif)
 
 ### Contact Page
 
@@ -200,7 +200,7 @@ Further information is present in the credits section.
     * This section shows the opening hours, to give the user specific information on the opening hours so they know when they can attend and when they can contact to sign up.
     * This section also provides the phone number and email address to contact the studio. The phone number and email also include tel and mailto links respectively, this makes it easier for the user to call or email the studio.
     
-    ![](documentation/readme/contact-details.png)
+    ![contact details screenshot](documentation/readme/contact-details.png)
 
 * **Contact Form** 
     * The contact form features a background image of studio members using the reformer machine, this gives a cohesive look to the form so that the user is reminded of what they may be enquiring about. 
@@ -208,7 +208,7 @@ Further information is present in the credits section.
     * The experience level and session format inputs give the studio some more background on the user's individual requirements and experience levels to allow them to format an appropriate response to follow up with the user when they submit the form.
     * The form is set in a bright pink div, to catch the eye and encourage the user to fill in their enquiry.
 
-    ![](documentation/readme/contact-form.png)
+    ![contact form screenshot](documentation/readme/contact-form.png)
 
 ### **Footer**
 
@@ -216,7 +216,7 @@ Further information is present in the credits section.
 * The footer features links to social media, such as Facebook, YouTube and Twitter. This gives the user the option to keep up to date with the daily posts, and videos that may be posted by the studio and become a part of the social community. These links also use fontawesome icons to indicate which social media platform they are linking to.
 * The page and social links also have a hover feature to give feedback to the user.
 
-![](documentation/readme/footer.png)
+![footer screenshot](documentation/readme/footer.png)
 
 ## Future Features
 
@@ -248,7 +248,8 @@ Further information is present in the credits section.
 * [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) was used to construct a flexible layout and responsive design
 * [Git](https://git-scm.com/) was used for version control
 * [Gitpod](https://gitpod.io/) was used to write the code
-* [GitHub](https://github.com/) was used to deploy the site code.
+* [GitHub](https://github.com/) was used to deploy the site code
+* [AmIResponsive](https://ui.dev/amiresponsive) was used to create the cross device responsivity images
 
 # Deployment
 

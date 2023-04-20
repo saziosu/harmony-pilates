@@ -2,7 +2,7 @@
 
 Link for the finished deployed site: [Harmony Pilates](https://saziosu.github.io/harmony-pilates/)
 
-![](documentation/readme/responsive.png)
+![responsive screenshot](documentation/readme/responsive.png)
 
 
 # Table of Contents
