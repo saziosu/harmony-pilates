@@ -9,7 +9,38 @@ A site for a pilates studio based in Limerick, Ireland. The site is aimed at pro
 ---
 
 # Table of Contents
-xxxxxxxxxx
+
+* [User Experience](#user-experience)
+    * [User Stories](#user-stories)
+    * [Wireframes](#wireframes)
+        * [Home](#home)
+        * [About](#about)
+        * [Services](#services)
+        * [Contact](#contact)
+* [Design](#design)
+    * [Color](#color-scheme)
+    * [Typography](#typography)
+    * [Imagery](#imagery)
+* [Features](#features)
+    * [Existing Features](#existing-features)
+        * [Navigation Bar](#navigation-bar)
+        * [Homepage](#homepage)
+        * [About Page](#about-page)
+        * [Services Page](#services-page)
+        * [Contact Page](#contact-page)
+        * [Footer](#footer)
+    * [Future Features](#future-features)
+    * [Accessibility](#accessibility)
+* [Technology Used](#technology-used)
+    * [Languages](#languages)
+    * [Frameworks, Libraries & Programs](#frameworks-libraries--programs)
+* [Testing](#testing)
+* [Credits](#credits)
+    * [Code](#code)
+    * [Content](#content)
+    * [Media](#media)
+* [Acknowledgements](#acknowledgements)
+
 ---
 
 # User Experience
@@ -92,6 +123,9 @@ The text on the team section under the About page was changed to white, to ensur
 * San-serif was the fallback font used for both imported fonts.
 
 ## Imagery
+
+Images were chosen that are relevant to the website as a whole and also relevant to the section they are present in.
+Also worked to have images that match well with the overall color scheme.
 
 Images were downloaded from [Pexels](https://www.pexels.com/) and [ShutterStock](https://www.shutterstock.com/)
 <br>
@@ -221,3 +255,41 @@ Further information is present in the credits section.
 # Testing
 
 [TESTING.md](TESTING.md)
+
+# Credits
+
+## Code
+
+* [SkillThrive](https://www.youtube.com/watch?v=PwWHL3RyQgk&t=668s), I followed this YouTube tutorial and adapted the code to fit my site for creating a responsive navbar using flexbox.
+* [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_cards2) used this tutorial as inspiration for the profile cards on my [about page](https://saziosu.github.io/harmony-pilates/)
+* [StackOverflow](https://stackoverflow.com/questions/1312236/how-do-i-create-an-html-table-with-a-fixed-frozen-left-column-and-a-scrollable-b) used this code as inspiration to help my timetable on the [services](https://saziosu.github.io/harmony-pilates/services.html) page to scroll left and right on smaller screens.
+* [Code Institute](https://github.com/saziosu/love-running) Used the love-running walkthrough project to help me make the text on my hero image and the social icon links in my footer
+
+## Content
+
+
+* [HealthLine](https://www.healthline.com/nutrition/pilates-benefits#reformer-benefits): Homepage sections detailing [what pilates is and its benefits](https://saziosu.github.io/harmony-pilates/index.html) were inspired by this resource.
+* [OxygenPilates](https://oxygenpilates.com.au/mat-vs-reformer-pilates-method-best/): Services section detailing the difference between using a [Mat and Reformer](https://saziosu.github.io/harmony-pilates/services.html) were inspired by this resource.
+
+
+## Media
+
+* Hero Image was sourced from [ShutterStock](https://www.shutterstock.com/image-photo/fitness-sport-training-people-concept-smiling-472162534)
+* What is pilates section image was sourced from [ShutterStock](https://www.shutterstock.com/image-photo/woman-doing-standing-mermaid-stretch-on-1444721096)
+* Benefits section image sourced from [ShutterStock](https://www.shutterstock.com/image-photo/young-smiling-woman-yoga-teacher-pilates-2079976753)
+* About page studio image was sourced from [ShutterStock](https://www.shutterstock.com/image-photo/pilates-studio-room-reformer-beds-1428810899)
+* Team section
+    * Marta Founder: [Pexels](https://www.pexels.com/photo/woman-standing-with-an-exercise-ball-6740056/)
+    * Andrea Instructor: [Pexels](https://www.pexels.com/photo/young-ethnic-woman-with-fit-ball-sitting-on-floor-while-training-in-modern-gym-3768593/)
+    * Charlene Instrucotr: [Pexels](https://www.pexels.com/photo/flexible-young-lady-doing-half-pigeon-yoga-asana-in-studio-6453906/)
+    * Jennifer Instructor: [Pexels](https://www.pexels.com/photo/cheerful-young-woman-with-sport-mat-4498576/)
+* Services page Mat pilates: [Pexels](https://www.pexels.com/photo/women-keeping-fit-3984353/)
+* Services page Reformer pilates: [Pexels](https://www.pexels.com/photo/a-man-doing-pilates-exercise-6111614/)
+* Contact form background image: [ShutterStock](https://www.shutterstock.com/image-photo/group-women-exercising-on-reformer-gym-1349033000)
+
+# Acknowledgements
+
+* Graeme Taylor my mentor, for all the help and advice throughout the project
+* Course Facilitator Alan for meeting us with weekly with check ins and keeping moral high
+* [Kera Cudmore](https://github.com/kera-cudmore) for the extremely helpful [Readme documentation](https://github.com/kera-cudmore/readme-examples)
+* [Shelly Maughan](https://github.com/shellym96) for the help, moral support and the laughs!

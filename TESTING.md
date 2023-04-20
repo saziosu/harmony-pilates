@@ -7,7 +7,34 @@ Link for the finished deployed site: [Harmony Pilates](https://saziosu.github.io
 
 # Table of Contents
 
-XXXXXXXXXX
+* [Automated Testing](#automated-testing)
+    * [W3C Validator](#w3c-validator)
+    * [CSS Validator](#css-validator)
+    * [Lighthouse](#lighthouse)
+        * [Homepage](#homepage)
+        * [About](#about)
+        * [Services](#services)
+        * [Contact](#contact)
+    * [Wave](#wave)
+        * [Homepage](#home-page)
+        * [About](#about-page)
+        * [Services](#services-page)
+        * [Contact](#contact-1)
+* [Manual Testing](#manual-testing)
+    * [User Stories Testing](#user-testing)
+        * [First Time User](#first-time-user)
+        * [Returning User](#returning-user)
+        * [Frequent User](#frequent-user)
+* [Full Testing](#full-testing)
+    * [Home](#home-page-1)
+    * [About](#about-page-1)
+    * [Services](#services-page-1)
+    * [Contact](#contact-page)
+* [Bugs](#bugs)
+    * [Known Bugs](#known-bugs)
+    * [Fixed Bugs](#fixed-bugs)
+    
+
 
 # Automated Testing
 
@@ -79,7 +106,7 @@ Lighthouse, via chrome dev tools, was used to ensure the accessibility is at an 
 
 ## User Testing
 
-### First time visitors
+### First Time User
 
 | Goal                                                                                                                                                       | Acheived                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -122,10 +149,48 @@ A wide range of devices were used.
 
 | Feature        | Expected                                                                         | Tested                            | Result                                | Pass/Fail |
 |----------------|----------------------------------------------------------------------------------|-----------------------------------|---------------------------------------|-----------|
+| Logo link      | Clicking the logo should redirect back to the homepage                           | Clicked logo                      | Redirects back to the homepage        | Pass      |
 | Hovers         | Navbar and Footer links to other pages should display a yellow color on hovering | Hovered over the nav/footer links | Hover links displayed as yellow color | Pass      |
 | Links          | Links to external websites should open in a new tab                              | Clicked social links in footer    | Social links open in a new tab        | Pass      |
-| Internal links | Links to other pages in the content should redirect to the correct page          | Clicked link in homepage section  | Correct page opened in same tab       | Pass      |
-        
+| Internal links | Links to other pages in the content should redirect to the correct page          | Clicked link in homepage section  | Correct page opened in same tab       | Pass      | 
 
 ## About Page
 
+| Feature        | Expected                                                                         | Tested                            | Result                                | Pass/Fail |
+|----------------|----------------------------------------------------------------------------------|-----------------------------------|---------------------------------------|-----------|
+| Logo link      | Clicking the logo should redirect back to the homepage                           | Clicked logo                      | Redirects back to the homepage        | Pass      |
+| Hovers         | Navbar and Footer links to other pages should display a yellow color on hovering | Hovered over the nav/footer links | Hover links displayed as yellow color | Pass      |
+| Links          | Links to external websites should open in a new tab                              | Clicked social links in footer    | Social links open in a new tab        | Pass      |
+| Internal links | Links to other pages in the content should redirect to the correct page          | Clicked link in studio section    | Correct page opened in same tab       | Pass      |
+
+## Services Page
+
+| Feature   | Expected                                                                         | Tested                              | Result                                | Pass/Fail |
+|-----------|----------------------------------------------------------------------------------|-------------------------------------|---------------------------------------|-----------|
+| Logo link | Clicking the logo should redirect back to the homepage                           | Clicked logo                        | Redirects back to the homepage        | Pass      |
+| Hovers    | Navbar and Footer links to other pages should display a yellow color on hovering | Hovered over the nav/footer links   | Hover links displayed as yellow color | Pass      |
+| Links     | Links to external websites should open in a new tab                              | Clicked social links in footer      | Social links open in a new tab        | Pass      |
+| Timetable | Timetable should scroll left to right on mobile devices                          | Scrolled timetable on mobile device | Timetable scrolled correctly          | Pass      |
+
+## Contact Page
+
+| Feature           | Expected                                                  | Tested                                                | Result                                                                                                    | Pass/Fail |
+|-------------------|-----------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------|
+| Tel & Email links | These links should appropriately start a phone call/email | Clicked mailto & tel links in contact details section | Mail & phone numbers were passed to the device                                                            | Pass      |
+| Contact form      | Input requirements should only accept the correct format  | Filled out each input in the contact form             | Only correct information type was accepted by the form, submitted correctly when using the right patterns | Pass      |
+
+
+# Bugs
+
+## Known Bugs
+
+At this time, I am not aware of any further known bugs. All solved bugs are listed below.
+
+## Fixed bugs
+
+| Bug                                                                                                                         | How it was solved                                                                                                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fonts were not loading correctly on paragraphs                                                                              | I was missing a comma on the font declaration for p elements, added the correct comma and it worked                                                                                                                                                                |
+| When making the select dropdown larger on the contact form, the font for the selected item disappeared                      | Did some research and found this [stackoverflow](https://stackoverflow.com/questions/43299041/html-select-padding-text-issue) post, based on the recommendations from the answers on this post I increased the height of the element and this resolved the problem |
+| Contact form, radio button results were not being passed to the formdump correctly.                                         | I was missing the 'value' attribute on the radio input. Added these in for each option and this resolved it.                                                                                                                                                       |
+| When filling out the contact form, the phone number section was accepting letters instead of only valid irish phone numbers | Looked into the details on this [mozilla doc](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel). I added the pattern element with regex to ensure that the correct number format is allowed.                                                    |
