@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Work+Sans&display=swap');
 
+/* Nav bar was set by following tutorial via SkillShare https://www.youtube.com/watch?v=PwWHL3RyQgk&t=668s */
 * {
     margin: 0;
     padding: 0;
@@ -19,7 +20,7 @@ img {
 }
 
 /* navigation styles */
-
+/* Nav bar was set by following tutorial via SkillShare https://www.youtube.com/watch?v=PwWHL3RyQgk&t=668s */
 nav li,
 a {
     font-family: "Work Sans", sans-serif;
@@ -30,12 +31,12 @@ a {
 }
 
 .button {
-  background-color: #f3e5ef;
-  padding: 9px 10px;
-  border: none;
-  border-radius: 50px;
-  color: #D43790;
-  text-decoration: none;
+    background-color: #f3e5ef;
+    padding: 9px 10px;
+    border: none;
+    border-radius: 50px;
+    color: #D43790;
+    text-decoration: none;
 }
 
 header {
@@ -51,7 +52,7 @@ header {
 
 .button:hover {
     background-color: #f2cb97;
-    color: #D43790; 
+    color: #D43790;
 }
 
 #logo {
@@ -72,7 +73,7 @@ nav a:hover {
 }
 
 /* hero image */
-
+/* Love Running Project was used to help create the hero section & overlay text */
 .hero-section {
     overflow: hidden;
     background-color: rgba(170, 14, 105, 1);
@@ -204,6 +205,8 @@ footer {
     color: #f2cb97
 }
 
+/* Used the Love Running project https://github.com/saziosu/love-running to help create the social links & icons */
+
 #social-container {
     color: #f3e5ef;
     text-align: center;
@@ -216,8 +219,8 @@ footer {
 
 #social-container i:hover {
     color: #f2cb97;
- }
- 
+}
+
 /* studio section */
 
 .studio {
@@ -278,6 +281,7 @@ footer {
     padding: 20px 0;
 }
 
+/* Used this W3Schools resource to help create the member cards https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_cards2 */
 #team-container img {
     border-radius: 50px 50px 0 0;
     width: 100%;
@@ -554,7 +558,6 @@ form textarea {
 }
 
 /* for medium sized screens 1200px and lower */
-
 @media screen and (max-width: 1200px) {
 
     /* header */
@@ -645,7 +648,7 @@ form textarea {
 /* small screens 800px and below */
 @media screen and (max-width: 800px) {
 
-        /* nav bar links */
+    /* nav bar links */
     .nav-links {
         display: flex;
         flex-direction: column;
@@ -655,7 +658,7 @@ form textarea {
     .nav-links li {
         padding: 10px 0;
     }
-    
+
     /* benfits of pilates section */
 
     .benefits {
@@ -674,6 +677,7 @@ form textarea {
     }
 
     /* classes timetable */
+    /* Used this stack overflow resource to allow the times to scroll with a sticky time colum https://stackoverflow.com/questions/1312236/how-do-i-create-an-html-table-with-a-fixed-frozen-left-column-and-a-scrollable-b) */
     .table-container {
         overflow: scroll;
     }
