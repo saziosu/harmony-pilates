@@ -34,6 +34,7 @@ A site for a pilates studio based in Limerick, Ireland. The site is aimed at pro
 * [Technology Used](#technology-used)
     * [Languages](#languages)
     * [Frameworks, Libraries & Programs](#frameworks-libraries--programs)
+* [Deployment](#deployment)
 * [Testing](#testing)
 * [Credits](#credits)
     * [Code](#code)
